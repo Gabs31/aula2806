@@ -1,10 +1,11 @@
+body{
+
+    background: #CCCCCC
+}
 p {
     text-align: center
 }
-body{
-    text-align: center;
-    background: #CCCCCC
-}
+
 
 em strong {
     color: red
