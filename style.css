@@ -1,11 +1,11 @@
 p {
     text-align: center
 }
-h1{
+body{
     text-align: center;
-    background: #16eed1
-
+    background: #CCCCCC
 }
+
 em strong {
-    color:rgb(231, 25, 25)
+    color: red
 }
